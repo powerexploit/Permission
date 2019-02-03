@@ -2,7 +2,7 @@
 Automated tool
 A permission tool is a fully automated with some special commands .
 The tool will help You to create and give executable permission to your file.
-
+enter number less than 2 and greater than 0 to give permission.
                 ____                     _         _             
                |  _ \ ___ _ __ _ __ ___ (_)___ ___(_) ___  _ __  
                | |_) / _ \ '__| '_ ` _ \| / __/ __| |/ _ \| '_ \ 
