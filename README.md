@@ -13,3 +13,10 @@ enter number less than 2 and greater than 0 to give permission.
 
 # Features
 
+(1) Helpful to create file
+(2) Easy to use
+
+# Installation
+To install this amazing tool use following commands in terminal
+
+git clone https://github.com/ankitdobhal/Permission.git
