@@ -18,10 +18,10 @@
 #    `---`    `----'                            ---`-'                          ---`-'                       
 #                                                                                                            
                                                                                                                                                                                                                                                                     
-echo "enter the name of file that you want to create :\n"
+echo "enter the name of file that you want to create :"\n;
 $file                 #first declare the variable
 read file             #then read that variable 
-echo "file is created:\n";
+echo "file is created:"\n;
 
 /bin/touch $file
 
@@ -31,9 +31,9 @@ read no
 if [ $no==1 ]
 then
 	
-	echo "executable permission to file:\n";
+	echo "executable permission to file"\n;
 	/bin/chmod 500 $file
 
 else
-	echo "File is not executable\n";
+	echo "File is not executable"\n;
 fi
