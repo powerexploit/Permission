@@ -16,8 +16,11 @@
 #  |   | :  |   :    | ---'    |   ;/          ;  :    ;'--'.     /'--'.     / ;  :    ;`----'  |   |/       
 #  `---'.|   \   \  /          '---'           |  ,   /   `--'---'   `--'---'  |  ,   /         '---'        
 #    `---`    `----'                            ---`-'                          ---`-'                       
-#                                                                                                            
-                                                                                                                                                                                                                                                                    
+#
+
+echo "Usage: ./permision.sh [file_name]"
+echo "Example: ./permission.sh"
+
 echo "enter the name of file that you want to create :"\n;
 $file                 #first declare the variable
 read file             #then read that variable 
